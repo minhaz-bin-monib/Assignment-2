@@ -1,0 +1,90 @@
+.BackPack-Color, .Casual-backpack-color{
+    color: #363958; 
+}
+.Moon-color, .dollar-color{
+    color: #76c27e;
+}
+
+.m{
+    border: 5px solid red;
+}
+.top-section{
+    display: inline-flex;
+    width: 100%;
+}
+
+.top-section img{
+    width: 100%;
+}
+
+.first-part{
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+
+   
+}
+
+header{
+    background-color: #FFFFF4;
+}
+
+.first-part img{
+    width: 800px;
+    height: 500px;
+}
+.first-part-div1{
+    margin-top: 70px;
+}
+
+.container{
+    width: 100%;
+}
+
+.container img{
+    width: 100%;
+}
+
+.card-footer{
+    background-color: white;
+    border: none;
+    margin: 0%;
+}
+
+.bag-color{
+    color: #363958;
+
+}
+.middle-part{
+    margin-top: 100px;
+    height: 500px;
+    margin-bottom: 20px;
+}
+.middle-part .middle-part-picture{
+    width: 550px ;
+    height: 90%;
+}
+
+.tt{
+    
+    border-radius: 20px;
+    height: 120px;
+    
+   
+}
+
+.penguin-logo-style{
+    width: 200px;
+    height: 50px;
+}
+
+.navs{
+    background-color:  #FFFFF4 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+.last-bg{
+    background-color: #99f5a2;
+}
